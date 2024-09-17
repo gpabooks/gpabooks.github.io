@@ -1,4 +1,46 @@
-site_name: GPA
+site_name: GPA · 银河先锋联盟
 site_url: https://gpabooks.github.io/
 theme:
   name: material
+  language: zh
+  custom_dir: docs/overrides
+  features:
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - search.share
+  plugins:
+    - search
+nav:
+  - 卷首语: 我来，我看，我叙事.md
+  - 我与科幻·我与交大幻协:
+    - 家住吴门，就作长安旅——记星云奖太原行: sff/家住吴门，就作长安旅——记星云奖太原行.md
+    - 中国科幻大会观察日记: sff/中国科幻大会观察日记.md
+    - 交集不为空——我与科幻的记忆: sff/交集不为空——我与科幻的记忆.md
+    - 人人都爱写科幻: sff/人人都爱写科幻.md
+    - 美好人生的关键所在: sff/美好人生的关键所在.md
+  - 超短篇小说: 
+    - 半脑天才: chaoduanpian/半脑天才.md
+    - 壶中记: chaoduanpian/壶中记.md
+    - See you again: chaoduanpian/See you again.md
+  - 短中篇小说:
+    - 我们在交大造火箭: duanzhongpian/我们在交大造火箭.md
+    - 初中小登怒写投稿拯救 GPA 大社刊: duanzhongpian/初中小登怒写投稿拯救GPA大社刊.md
+    - 有限剑制: duanzhongpian/有限剑制.md
+  - 趣文:
+    - 新世界设定随笔: qw/新世界设定随笔.md
+    - Tales of KOTOR——旧共和国武士彩蛋小集锦: qw/Tales of KOTOR——旧共和国武士彩蛋小集锦.md
+  - 评论·随笔:
+    - 奇幻之路——《巨龙的颂歌》书评: comment/奇幻之路——《巨龙的颂歌》书评.md
+    - 有感迈克尔·克莱顿: comment/有感迈克尔·克莱顿.md
+    - 感受南茜·特蕾丝: comment/感受南茜·特蕾丝.md
+    - 我所憧憬的近未来——弗诺·文奇“彩虹尽头”的世界: comment/我所憧憬的近未来——弗诺·文奇“彩虹尽头”的世界.md
+    - 评论两则: comment/评论两则.md
+    - 一代人的成人礼——人类学视阈下的《超新星纪元》: comment/一代人的成人礼——人类学视阈下的《超新星纪元》.md
+  - 翻译作品:
+    - 天降谎言之水 (The Water That Falls on You from Nowhere): trans/天降谎言之水 (The Water That Falls on You from Nowhere).md
+  - 时光掠影:
+    - 交大幻协活动掠影2002-2024: timeflies/交大幻协活动掠影2002-2024.md
+    - 寄语: timeflies/寄语.md
+  - 摄影专栏: 摄影专栏.md
+  - 科幻奇幻笑话: 科幻奇幻笑话.md

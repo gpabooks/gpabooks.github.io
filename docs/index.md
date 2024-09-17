@@ -1,17 +1,27 @@
-# Welcome to MkDocs
+---
+comments: true
+---
+# 简介
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+本网站存放上海交通大学科幻奇幻协会社团刊物《 Galactic Pioneers Association 》（银河先锋联盟）的电子版。
 
-## Commands
+您可以在这里获得 PDF （TODO），以获得近似纸质版的阅读体验，您也可以直接在本站阅读更适配您手中电子设备的网页版。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
+# 参与本刊制作的工作人员 
 
-## Project layout
+**创意策划**：交大幻协第二十届全体核心成员
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+**文字编辑**：极超  凌川
+
+**校对**：小舟 极超 赤道 凌川
+
+**美术编辑**：小壁灯
+
+**封面设计**：小壁灯
+
+**封面摄影**：PlayWright
+
+**社徽设计**：奇衡三
+
+**技术支持**：凌川
