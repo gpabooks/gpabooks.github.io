@@ -1,6 +1,6 @@
 # README
 
-本仓库为交大幻协社团刊物 GPA 电子版存放点，主页依托 [GitHub Pages](https://pages.github.com/) 与 [MkDocs](https://www.mkdocs.org/) 搭建，主要展示交大幻协社刊内容，并添加了[评论系统](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/)功能。目前由 [Oscillater](https://github.com/Oscillater) 负责维护。
+本仓库为交大幻协社团刊物 GPA 电子版存放点，主页依托 [GitHub Pages](https://pages.github.com/) 与 [MkDocs](https://www.mkdocs.org/) 搭建，主要展示交大幻协社刊内容，并添加了[评论系统](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/)功能。目前由 [Oscillater](https://github.com/Oscillater) 与 [equator](https://github.com/equator123) 负责维护。
 
 ## 分支说明
 
