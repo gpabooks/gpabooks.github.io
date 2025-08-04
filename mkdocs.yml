@@ -17,8 +17,27 @@ theme:
     - search.suggest
     - search.share
     - content.footnote.tooltips
+  
+  palette:  # 配色方案：默认模式
+    # 浅色模式
+    - scheme: default
+      accent: deep purple
+      toggle:
+        icon: fontawesome/brands/sith
+        name: Dark side
+ 
+    # 深色模式
+    - scheme: slate
+      accent: deep purple
+      toggle:
+        icon: fontawesome/brands/jedi
+        name: Light side
+
   plugins:
-    - search
+    - search:
+        lang:
+          - zh
+          - en
     - glightbox:
         touchNavigation: true
         loop: false
@@ -40,10 +59,17 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - footnotes
+
+#css
+#extra_css: 
+  #- assets/stylesheets/fonts.css #字体设置英文Times New Roman，中文宋体
+
+  
 nav:
-  - 简介:
+  - 主页:
     - index.md
   - GPA:
+    - gpa/index.md
     - 卷首语: gpa/我来，我看，我叙事.md
 
     - 我与科幻·我与交大幻协:
@@ -84,3 +110,7 @@ nav:
 
     - 摄影专栏: gpa/摄影专栏.md
     - 科幻奇幻笑话: gpa/科幻奇幻笑话.md
+
+  - SCI: 
+    - sci/index.md
+    - 科幻奇幻笑话: sci/科幻奇幻笑话.md

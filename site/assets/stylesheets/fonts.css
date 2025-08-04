@@ -1,0 +1,9 @@
+/* 正文字体：Times New Roman → 宋体 → 通用无衬线兜底 */
+:root {
+  --md-text-font: "Times New Roman", "SimSun", "宋体", "Noto Serif SC", serif;
+}
+
+/* 代码字体仍保持 Consolas */
+:root {
+  --md-code-font: "Consolas", "Menlo", "Monaco", "Courier New", monospace;
+}

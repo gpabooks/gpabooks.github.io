@@ -1,11 +1,12 @@
 ---
 comments: true
+title: GPA
 ---
 # 简介
 
-本网站存放上海交通大学科幻奇幻协会社团刊物《 Galactic Pioneers Association 》（银河先锋联盟）的电子版。
+这里是上海交通大学科幻奇幻协会社团刊物《银河先锋联盟》（Galactic Pioneers Association，简称GPA）的电子版。
 
-您可以在[这里](https://drive.google.com/file/d/1_vUGqsT9YbJBDovHj-AM6tMzUeL8erqN/view)获得社刊的 PDF 版, 在[这里](https://drive.google.com/file/d/1W-G7hwCU124zW1SGdMu5HqJWILk_ImrR/view)获得社刊的 EPUB 版，以获得近似纸质版的阅读体验，您也可以直接在本站阅读更适配您手中电子设备的网页版。
+您可以在[这里](https://drive.google.com/file/d/1_vUGqsT9YbJBDovHj-AM6tMzUeL8erqN/view)获得《GPA》的 PDF 版, 在[这里](https://drive.google.com/file/d/1W-G7hwCU124zW1SGdMu5HqJWILk_ImrR/view)获得《GPA》的 EPUB 版，以获得近似纸质版的阅读体验，您也可以直接在本站阅读更适配您手中电子设备的网页版。
 
 ---
 # 参与本刊制作的工作人员 
