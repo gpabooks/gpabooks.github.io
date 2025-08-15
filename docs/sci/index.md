@@ -4,7 +4,7 @@ title: SCI
 ---
 # 简介
 
-这里是上海交通大学科幻奇幻协会社团刊物《太阳系编年史研究所》（Solar Chronological Institute，简称SCI）的电子版。
+这里是上海交通大学科幻奇幻协会社团刊物《太阳系编年史研究所》（Solar Chronicles Institute，简称SCI）的电子版。
 
 **本页面未完成**
 
