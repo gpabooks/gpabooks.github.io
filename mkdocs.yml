@@ -60,6 +60,19 @@ markdown_extensions:
   - md_in_html
   - footnotes
 
+extra:
+  social:
+    - icon: fontawesome/brands/weixin
+      link: https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI3NDAzNTk2Mg==&scene=124#wechat_redirect
+    - icon: fontawesome/brands/weibo
+      link: https://www.weibo.com/2395482420
+    - icon: douban
+      link: https://www.douban.com/people/54420442
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/387123490
+    - icon: fontawesome/brands/github
+      link: https://github.com/gpabooks/gpabooks.github.io
+
 #css
 #extra_css: 
   #- assets/stylesheets/fonts.css #字体设置英文Times New Roman，中文宋体
