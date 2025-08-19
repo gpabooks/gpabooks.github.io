@@ -8,7 +8,7 @@ hide:
 ## 简介
 上海交通大学科幻奇幻协会成立于2002年5月22日。协会致力于汇集交大科幻奇幻爱好者，并为其提供交流平台。
 
-![](/assets/images/logo-blue.png)
+![](assets/images/logo-blue.png)
 
 ## 社刊
 本网站存放交大幻协的社团刊物电子版。现有
