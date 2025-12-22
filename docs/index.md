@@ -14,7 +14,7 @@ hide:
 本网站存放交大幻协的社团刊物电子版。现有
 
 - 《银河先锋联盟》（ Galactic Pioneers Association）
-- 《太阳系编年史研究所》（Solar Chronicles Institute）（敬请期待……）
+- 《太阳系编年史研究所》（Solar Chronicles Institute）
 
 ## 其他
 ### 相关链接
