@@ -13,15 +13,15 @@ hide:
 ## 社刊
 本网站存放交大幻协的社团刊物电子版。现有
 
+- 饮水思源 BBS 科幻版整理（敬请期待……）
 - 《银河先锋联盟》（ Galactic Pioneers Association）
 - 《太阳系编年史研究所》（Solar Chronicles Institute）
+- 《数字命运实验室》（Digital Destiny Laboratory）（敬请期待……）
 
 ## 其他
 ### 相关链接
 
 - [中文科幻数据库](https://csfdb.cn/organizations/200)
-
-- [饮水思源BBS科幻版整理](https://ling-chuan.gitbook.io/sjtusffa-heritage)
 
 ### 联系方式
 
